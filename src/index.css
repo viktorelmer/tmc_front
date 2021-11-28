@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: "IBM Plex Sans",-apple-system,BlinkMacSystemFont,sans-serif !important;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  width: 100%;
+}
